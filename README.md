@@ -6,6 +6,7 @@ Dashboards about current use of technologies and the furture trendy technologies
 
 **On the Current Technology Usage dashboard tab, the data asset m5_survey_data_technologies_normalised.csv was used and captured the following metrics as visualizations:**
 
+
 **In the first rectangle (Panel 1):**
 Capture Top 10 LanguageWorkedWith.
 Visualize as a Bar chart.
